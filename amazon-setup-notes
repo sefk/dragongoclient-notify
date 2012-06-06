@@ -11,4 +11,7 @@
     cd sef-dotfiles
     make
 
+4. install django
+    sudo easy_install django
+
 
