@@ -1,0 +1,14 @@
+1. basic amazon linux AMI
+
+2. Installs (as ec2-user, sudo yum install xx)
+    git
+    make
+
+3. Set up my environment
+    mkdir src
+    cd src
+    git clone git@github.com:sefk/sef-dotfiles.git
+    cd sef-dotfiles
+    make
+
+
