@@ -1,3 +1,7 @@
+Useful site for setting up EC2 command line tools on a mac:
+    http://www.robertsosinski.com/2008/01/26/starting-amazon-ec2-with-mac-os-x/
+
+
 1. basic amazon linux AMI
 
 2. Installs (as ec2-user, sudo yum install xx)
